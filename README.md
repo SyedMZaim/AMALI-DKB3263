@@ -3,7 +3,6 @@
 ## PB AMALI DKB 3263
 Nama: SYED MUHAMMAD ZAIM BIN SYED MOHD ASDI
 Angka Giliran: BKV0825KB020
-No. Kad. Pengenalan: 071127-14-0675
 
 ## Objektif
 Membangunkan Artificial Neural Network (ANN)
