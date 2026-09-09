@@ -17,21 +17,21 @@ dataset MNIST.
 - Matplotlib
 
 ## Model ANN
-Input Layer: 784
-Hidden Layer: 128
-Hidden Layer: 64
-Output Layer: 10
+Input Layer: 784<br>
+Hidden Layer: 128<br>
+Hidden Layer: 64<br>
+Output Layer: 10<br>
 
-Activation: ReLU
-Loss Function: CrossEntropyLoss
-Optimizer: Adam
+Activation: ReLU<br>
+Loss Function: CrossEntropyLoss<br>
+Optimizer: Adam<br>
 
 ## Hyperparameter Tuning
-Parameter: Learning Rate
-
-Original: 0.001
-Tuned: 0.0005
+Parameter: Learning Rate<br>
+<br>
+Original: 0.001<br>
+Tuned: 0.0005<br>
 
 ## Results
-Test Accuracy: 97.48%
+Test Accuracy: 97.48%<br>
 Tuned Accuracy: 97.64%
